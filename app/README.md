@@ -11,3 +11,5 @@
 
 # Extra Functionalities
 1.มีปุ่ม Restart กดเริ่มใหม่ได้ตลอดไม่ต้องรอเกมจบ
+
+<https://youtu.be/bEQF4vAyiDg>
